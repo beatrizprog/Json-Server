@@ -1,10 +1,20 @@
-{
+{ 
     "notas":
     [
         { "id":1,
             "titulos": "estudar js",
             "status": true
         }
-    ]
+    ],
     
+
+"notas":
+[
+    { "id":1,
+        "titulos": "estudar js",
+        "status": true
+    }
+]
+
 }
+
