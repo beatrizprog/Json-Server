@@ -1,0 +1,352 @@
+{
+    "livros":[
+    { 
+        "id": 1,
+        "titulo":"Verity",
+        "ano":"2020",
+        "Autores_id":1,
+        "Valores_id": 2
+        
+
+    },
+   {
+        "id":2 ,
+        "titulo":" Até o verão terminar",
+        "ano":"2021",
+        "Autores_id":1,
+        "Valores_id":1
+
+   },
+   {
+        "id": 3,
+        "titulo":"Trono de vidro",
+        "ano":"2013",
+        "Autores_id":1,
+        "Valores_id":3
+
+
+   },
+   {
+    "id":4 ,
+    "titulo":"Van Gogh",
+    "ano":"2012",
+    "Autores_id":3,
+    "Valores_id":5
+
+  },
+  {
+    "id": 5,
+    "titulo":"Frida: A biografia",
+    "ano":"2011",
+    "Autores_id":4,
+    "Valores_id": 5
+
+  },
+  {
+    "id": 6 ,
+    "titulo":"Em busca de mim ",
+    "ano":"2022",
+    "Autores_id":5,
+    "Valores_id":5
+
+  },
+  {
+    "id": 7 ,
+    "titulo":"Minha vida,minha obra",
+    "ano":"2021",
+    "Autores_id":6,
+    "Valores_id":5
+
+
+  },
+  {
+    "id": 8 ,
+    "titulo":"Nunca deixe de tentar",
+    "ano":"2009",
+    "Autores_id":7,
+    "Valores_id":5
+
+
+  },
+  {
+    "id": 9,
+    "titulo":"O jogo doamor Ódio",
+    "ano":"2020",
+    "Autores_id":8,
+    "Valores_id":2
+
+
+  },
+  {
+    "id": 10,
+    "titulo":"Nossa Estação",
+    "ano":"2021",
+    "Autores_id":9,
+    "Valores_id":6
+
+   },
+   {
+    "id":11 ,
+    "titulo":"O Corvo e outras histórias",
+    "ano":"2011",
+    "Autores_id":3,
+    "Valores_id":10
+
+  },
+  {
+    "id": 12,
+    "titulo":"Outsider",
+    "ano":"2018",
+    "Autores_id":3,
+    "Valores_id":12
+
+  },
+  {
+    "id": 13,
+    "titulo":"Misery: Louca obsessão",
+    "ano":"2014",
+    "Autores_id":3,
+    "Valores_id": 12
+
+
+  },
+  {
+    "id": 14 ,
+    "titulo":"O cemitério",
+    "ano":"2006",
+    "Autores_id":3,
+    "Valores_id":12
+
+   },
+   {
+    "id": 15,
+    "titulo":"Flores partidas ",
+    "ano":"2017",
+    "Autores_id":3,
+    "Valores_id":11
+
+  },
+  {
+    "id": 16 ,
+    "titulo":"O Exorcista",
+    "ano":"2019",
+    "Autores_id":3,
+    "Valores_id":13
+
+  },
+  {
+    "id":17 ,
+    "titulo":"Horror na colina de Darrington",
+    "ano":"2016",
+    "Autores_id":3,
+    "Valores_id":14
+
+  },
+  {
+    "id": 18 ,
+    "titulo":"A corrente",
+    "ano":"2018",
+    "Autores_id":4,
+    "Valores_id":12
+
+   },
+   {
+    "id":19 ,
+    "titulo":"A garota do lago ",
+    "ano":"2016",
+    "Autores_id":3,
+    "Valores_id":15
+
+  },
+  {
+    "id": 20,
+    "titulo":"Uma mulher na escuridão",
+    "ano":"2019",
+    "Autores_id":3,
+    "Valores_id":15
+
+  }
+],
+  
+"Autores": [
+  
+    { 
+    "id":1,
+    "autor(a)":"Colleen Hoover",
+    "idade":"42 anos",
+    "nacionalidade": "EUA",
+    "informações gerais": "Hoover vendeu mais de 20 milhões de livros."
+
+
+ },
+ { 
+    "id":2,
+    "autor(a)":"Sarah J. Maas",
+    "idade":" 36 anos",
+    "nacionalidade": "EUA",
+    "informações gerais":"Prêmio Goodreads Choice Awards de Melhor Fantasia"
+
+ },
+ { 
+    "id":3,
+    "autor(a)":"Steven Naifeh",
+    "idade":" 70 anos",
+    "nacionalidade": " Irã",
+    "informações gerais": " vencedor do Prêmio Pulitzer de Jackson Pollock e Vincent van Gogh"
+
+ },
+ { 
+    "id":4,
+    "autor(a)":"HAYDEN HERRERA",
+    "idade":"  86anos",
+    "nacionalidade": "EUA",
+    "informações gerais":"Prêmios Bolsa Guggenheim para Artes Criativas, Estados Unidos e Canadá"
+
+ },
+ { 
+    "id":5,
+    "autor(a)":"Viola DAVIS ",
+    "idade":" 57 anos",
+    "nacionalidade": "EUA",
+    "informações gerais":"Viola Davis é uma atriz e produtora norte-americana. Vencedora de um Óscar, um Emmy Award e dois Tony Awards, dessa forma alcançando a Tríplice Coroa da Atuação. Foi considerada pela Time uma das 100 pessoas mais influentes do planeta em 2012 e em 2017"
+
+ },
+ { 
+    "id":6,
+    "autor(a)":"Henry Ford ",
+    "idade":"30 de julho de 1863",
+    "nacionalidade": "EUA",
+    "informações gerais":" autor dos livros Minha filosofia de indústria e Minha vida e minha obra, e o primeiro empresário a aplicar a montagem em série de forma a produzir em massa automóveis em menos tempo e a um menor custo."
+
+ },
+ { 
+    "id":7,
+    "autor(a)":"Michael Jordan",
+    "idade":" 59 anos",
+    "nacionalidade": "EUA",
+    "informações gerais":"Michael Jeffrey Jordan é um empresário e ex-basquetebolista estadunidense que atuava como ala-armador. É considerado por muitos como o melhor jogador de basquete de todos os tempos"
+
+ },
+ { 
+    "id":8,
+    "autor(a)":"Sally Thorne ",
+    "idade":" 41 anos",
+    "nacionalidade": "EUA",
+    "informações gerais":"Sally Thorne tornou-se uma autora bestseller com a comédia romântica Odeio-te e Amo-te, o seu romance de estreia. "
+
+ },
+ { 
+    "id":9,
+    "autor(a)":"Laura Jane Williams",
+    "idade":" 35 anos",
+    "nacionalidade": "EUA",
+    "informações gerais":"A escritora é uma inglesa bem-sucedida, antenada à vida moderna, do melhor ao pior."
+
+ },
+ { 
+    "id":10,
+    "autor(a)":"Edgar Allan Poe",
+    "idade":" 19 de janeiro de 1809",
+    "nacionalidade": "EUA",
+    "informações gerais":"Edgar Allan Poe foi um autor, poeta, editor e crítico literário estadunidense, integrante do movimento romântico em seu país"
+
+
+ },
+ { 
+    "id":11,
+    "autor(a)":"Karin Slaughter ",
+    "idade":" 51 anos",
+    "nacionalidade": "EUA",
+    "informações gerais":"Karin Slaughter é uma escritora de literatura policial norte-americana. Ela escreveu 21 romances, que venderam mais de 40 milhões de cópias e foram publicados em 120 países"
+
+ },
+ { 
+    "id":12,
+    "autor(a)":"Stephen King",
+    "idade":" 75 anos",
+    "nacionalidade": "EUA",
+    "informações gerais":"Os seus livros já venderam mais de 400 milhões de cópias, com publicações em mais de 40 países. É o 9º autor mais traduzido no mundo."
+
+ },
+ { 
+    "id":13,
+    "autor(a)":" William Peter Blatty ",
+    "idade":" : 7 de janeiro de 1928",
+    "nacionalidade": "EUA",
+    "informações gerais":" ele também escreveu o roteiro para a adaptação do filme, para o qual ele recebeu um Oscar, e também escreveu e dirigiu O Exorcista Is"
+
+ },
+ { 
+    "id":14,
+    "autor(a)":"Marcus Barcelos  ",
+    "idade":" 33 anos",
+    "nacionalidade": "EUA",
+    "informações gerais":"foi lido por mais de um milhão de pessoas no Wattpad, fato que o levou a ser convidado para ser embaixador da plataforma no Brasil e a ganhar o prêmio Wattys em 2015."
+
+ },
+ { 
+    "id":15,
+    "autor(a)":"Charlie Donlea ",
+    "idade":"41 anos",
+    "nacionalidade": "EUA",
+    "informações gerais":"Autor best-seller internacional, ele tem os seus livros publicados em 20 países"
+
+ }
+ 
+ ],
+    "valores" :
+    [
+            {   
+        
+        "id":1,
+         "preços":"20,00",
+         "gênero":"Romancedsa",
+         "paginas": 250,
+         "classicação":14
+    },
+    {   
+        "id":2,
+         "preços":"25,00",
+         "gênero":"Espionagem e Política",
+         "paginas":350,
+         "classicação":16
+
+    },
+    {   
+        "id":3,
+         "preços":"35,00",
+         "gênero":"Terror",
+         "paginas":260,
+         "classicação":18
+
+
+    },
+    {   
+        "id":4,
+         "preços":"30,00",
+         "gênero":"suspense",
+         "paginas":400,
+         "classicação": 16
+    },
+    {   
+        "id":5,
+         "preços":"40,00",
+         "gênero":"Biografia",
+         "paginas":350,
+         "classicação": 12
+    },
+    {   
+        "id":6,
+         "preços":"45,00",
+         "gênero":"Comédia",
+         "paginas":200,
+         "classicação": 12 
+
+      }
+
+    ]
+}
+
+
+  
+
